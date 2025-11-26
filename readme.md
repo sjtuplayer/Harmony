@@ -7,6 +7,8 @@
 
 </div>
 
+![Teaser](assets/teaser.png)
+
 ## 📢 News
 
 - **[2025-11]** Paper released on arXiv
